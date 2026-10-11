@@ -3,14 +3,15 @@ Machine learning project exploring heart disease risk prediction using clinical 
 
 This project investigates whether routinely collected clinical variables can be used to predict the risk of heart disease using machine learning methods.
 
-**The project explores:**
+**The project Goals: **
 
-Exploratory Data Analysis (EDA)
-Logistic Regression
-Random Forest Classification
-Model Evaluation
-Explainability using SHAP
-Fairness Analysis across demographic groups
+Explore a real healthcare dataset
+Perform exploratory data analysis
+Build machine learning models
+Evaluate model performance
+Investigate model explainability
+Assess fairness in healthcare AI systems
+
 Research Question
 Can patient clinical characteristics be used to predict heart disease risk, and does model performance vary across demographic groups?
 
@@ -18,8 +19,10 @@ Can patient clinical characteristics be used to predict heart disease risk, and 
 Python
 Pandas
 NumPy
-Scikit-learn
 Data Visualisation
 Machine Learning
 Explainable AI
 Responsible AI
+Data Analysis
+
+PROJECT CURRENTLY IN DEVELOPMENT
