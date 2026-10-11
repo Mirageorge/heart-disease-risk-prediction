@@ -3,7 +3,7 @@ Machine learning project exploring heart disease risk prediction using clinical 
 
 This project investigates whether routinely collected clinical variables can be used to predict the risk of heart disease using machine learning methods.
 
-**The project Goals: **
+**The project Goals:**
 
 Explore a real healthcare dataset
 Perform exploratory data analysis
